@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mantan Terindah - Music Player</title>
+<title>dandi muach - Music Player</title>
 
 <style>
 
@@ -77,8 +77,8 @@ button:hover{
 
 <img src="dndi.jfif" class="cover">
 
-<div class="title">Mantan Terindah</div>
-<div class="artist">Kahitna</div>
+<div class="title">dandi muach</div>
+<div class="artist">gufron</div>
 
 <audio id="audio">
 <source src="sahur.mp3" type="audio/mpeg">
