@@ -81,7 +81,7 @@ button:hover{
 <div class="artist">Kahitna</div>
 
 <audio id="audio">
-<source src="kahitna(mp3.pm).mp3" type="audio/mpeg">
+<source src="kahitna.mp3" type="audio/mpeg">
 </audio>
 
 <input type="range" id="progress" class="progress" value="0">
