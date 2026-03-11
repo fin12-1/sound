@@ -75,7 +75,7 @@ button:hover{
 
 <div class="player">
 
-<img src="cover.jpg" class="cover">
+<img src="dndi.jfif" class="cover">
 
 <div class="title">Mantan Terindah</div>
 <div class="artist">Kahitna</div>
